@@ -1,0 +1,16 @@
+v2.5.4
+- Fix: Code improvements as per WordPress theme review coding standards.
+- Fix: Incorrectly printed styles causing JS error with the PWA Plugin.
+- Fix: Block pattern compatibility with WordPress 5.5.
+- Fix: Gutenberg editor image alignment compatibility with WordPress 5.5.
+
+v2.5.3
+- Fix: Code improvements as per WordPress theme review guidelines.
+- Fix: Removed third-party recommended plugins from options page.
+- Fix: RGB color not working in Customizer for WordPress 5.5.
+
+v2.5.2
+- Fix: Footer Widgets background color option not working for new users.
+
+v2.5.1
+- Fix: CSS not working on Menu with third-party plugins having filter 'nav_menu_link_attributes' of lower priority.
